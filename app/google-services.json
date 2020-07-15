@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "506478582297",
+    "firebase_url": "https://drone-delivery-8f345.firebaseio.com",
+    "project_id": "drone-delivery-8f345",
+    "storage_bucket": "drone-delivery-8f345.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506478582297:android:1f52412560e2dd1dbfa888",
+        "android_client_info": {
+          "package_name": "com.shivam.drone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506478582297-p2as41hvjosfvj0en49gcrdh4cgu6frb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGFxgLwaoY2Ez4F7XM_hTKdAvx6UB2FxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506478582297-p2as41hvjosfvj0en49gcrdh4cgu6frb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

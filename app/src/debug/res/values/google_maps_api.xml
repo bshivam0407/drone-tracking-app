@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=85:78:C3:EA:96:BA:6C:E3:69:F9:FF:48:9F:E5:C3:D8:C2:71:00:64%3Bcom.shivam.drone
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.shivam.drone
+
+    SHA-1 certificate fingerprint:
+    85:78:C3:EA:96:BA:6C:E3:69:F9:FF:48:9F:E5:C3:D8:C2:71:00:64
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBHdKTgDOufSpzfB5HC5lP19qaHtM6QPRo</string>
+</resources>
